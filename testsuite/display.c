@@ -57,7 +57,7 @@ int main(void)
 		exit(1);
 	}
 
-	printf("\nRTAI testsuite and calibration tool (all data in nanoseconds)\n");
+	printf("\nRTAI testsuite (all data in nanoseconds)\n");
 	printf("# period = %i (ns) \n", 100000);
 	printf("# average time = %i (s)\n\n", (int)1);
 
