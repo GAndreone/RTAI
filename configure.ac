@@ -725,7 +725,6 @@ AC_CONFIG_FILES([ \
 	src/include/GNUmakefile \
 	src/ipc/GNUmakefile \
 	src/sched/GNUmakefile \
-	src/include/rtai_defs.h \
 	src/include/asm-x86/GNUmakefile \
 	src/ipc/fifos/GNUmakefile \
 	src/ipc/shm/GNUmakefile \
